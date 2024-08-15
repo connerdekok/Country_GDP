@@ -20,7 +20,7 @@ Kossivi Agbenohevi
 ## Project Summary- 
 Throughout this project we looked at the statistical differences in the Per Capita GDPs of countries during the time period from 1970 to 2022.  When investigating the data we found a wide variety of interesting statistical information. All figures are in US Dollars (USD).
 
- 	We found the highest, lowest, mean and median individual GDPs for each decade. We also found and tracked the countries with the highest and lowest GDP across all of the data. We created several different charts to help represent our data, such as a heatmap, line charts, and bar charts. We also looked at the greatest and lowest year-to-year increases and decreases, and represented that data by various bar charts. Furthermore, we separated all of the countries into the respective continents and regions to which they belong. This helped us find geographic trends in our data. 
+We found the highest, lowest, mean and median individual GDPs for each decade. We also found and tracked the countries with the highest and lowest GDP across all of the data. We created several different charts to help represent our data, such as a heatmap, line charts, and bar charts. We also looked at the greatest and lowest year-to-year increases and decreases, and represented that data by various bar charts. Furthermore, we separated all of the countries into the respective continents and regions to which they belong. This helped us find geographic trends in our data. 
 
 
 ## Questions Asked: 
@@ -45,23 +45,6 @@ However, when refining the country groupings to smaller regions within continent
 
 Limitations of our dataset- Examining the data set we realized countries that were established in 1970 are included on this data sheet, but ones that were created later on are excluded.  As an example, the USSR (Union of Soviet Social Republics) is listed in this data set from 1970 until 1990. The USSR was dissolved in 1991, resulting in the foundation of Russia and other sovereign nations. So after 1991 there is no data given for the USSR or Russia, as neither was present for the full duration of the data set’s timeframe. 
 
-
-
-
-## Charts- 
-![alt text](Highest_GDP_Per_Decade.png)
-![alt text](Lowest_GDP_Per_Decade.png)
-![alt text](Mean_GDP_Per_Decade.png)
-![alt text](Median_GDP_Per_Decade.png)
-![alt text](GDP_Heatmap-1.png)
-![alt text](GDP_Top_3_Contries.png)
-![alt text](GDP_Bottom_3_Countries.png)
-![alt text](Top_20_Contries_GDP.PNG)
-![alt text](Top_Year_To_Year_Decreases.png)
-![alt text](Top_Year_To_Year_Increases.png)
-![alt text](continents_plot-1.png)
-![alt text](regions_plot.png)
-![alt text](regions_subset_plot.png)
 
 ## Slides- 
 [text](<Project 1 PowerPoint Slides.pdf>)
